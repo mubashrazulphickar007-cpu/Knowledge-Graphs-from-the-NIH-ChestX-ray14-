@@ -1,4 +1,4 @@
-# Knowledge-Graphs-from-the-NIH-ChestX-ray14-
+
 # Knowledge Graphs from the NIH ChestX-ray14 Dataset
 
 A knowledge graph construction pipeline built on the NIH ChestX-ray14 dataset, combining tabular metadata and image-derived features to represent relationships between patients, findings, and diagnostic labels.
