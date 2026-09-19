@@ -78,8 +78,7 @@ This project is for research and learning purposes only. It is **not** a medical
 
 ## 🎓 Context
 
-Developed as a Bioinformatics final-term project during the MS in Data Science program at the Institute of Management Sciences (IMSciences), Peshawar.
-
+Developed as part of my MS in Data Science at the Institute of Management Sciences (IMSciences), Peshawar.
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE).
